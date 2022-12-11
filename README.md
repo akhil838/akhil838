@@ -39,6 +39,6 @@ Here are some ideas to get you started:
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
   <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
-  <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
+  <img width=50px src="https://user-images.githubusercontent.com/64255484/206908865-74fd64c1-9203-4a33-8373-d4bf820afdd4.png">&nbsp;
+  <img width=80px src="https://user-images.githubusercontent.com/64255484/206909008-4b786d6d-8e73-4335-8735-ecbdafdddb94.png">&nbsp;
 </div>
