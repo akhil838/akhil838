@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-# <img src="https://camo.githubusercontent.com/af4d5d7735cbc17ad74fc5365e4dadbd04bff06d00f9f66f1617e63d66a23850/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e6769663f31353336333531303735" width="30px"> Hi there, I'm Akhil
+# <img src="https://github.com/akhil838/akhil838/assets/64255484/a3e5f649-2be6-4d35-9572-37d2739d442a" width="30px"> Hi there, I'm Akhil
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-grey?style=for-the-badge&logo=hackerrank&labelColor=black&link=https://www.hackerrank.com/akhil838)](https://www.hackerrank.com/akhil838?hr_r=1)
 [![CodeChef](https://img.shields.io/badge/codechef-black?style=for-the-badge&logo=codechef&labelColor=brown&link=https://www.codechef.com/users/akhil838)](https://www.codechef.com/users/akhil838)
@@ -30,15 +29,9 @@ Here are some ideas to get you started:
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil838&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Akhil's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil838&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
-
 ## Languages and Tools:
-<div>
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
-  <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
-  <img width=50px src="https://user-images.githubusercontent.com/64255484/206908865-74fd64c1-9203-4a33-8373-d4bf820afdd4.png">&nbsp;
-  <img width=80px src="https://user-images.githubusercontent.com/64255484/206909008-4b786d6d-8e73-4335-8735-ecbdafdddb94.png">&nbsp;
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,opencv,py,pycharm,stackoverflow,vscode,tensorflow,pytorch,windows,anaconda,apple,c,java,debian,vim,discord,figma,github,kali,linux&perline=10" />
+  </a>
+</p>
