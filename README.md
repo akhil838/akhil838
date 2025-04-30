@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 :school:👨‍🎓 Currently studying Computer Science (Artificial Intelligence and Machine Learning) at Sreyas Institute of Engineering and Technology, IN.</br>
 👨‍💻 I'm passionate about Artificial Intelligence and Machine Learning .</br>
-💻 Also intrested in Android Development📱, Web Development🌐.</br>
+💻 Also intrested in Robotics🤖, Android Development📱and Web Development🌐.</br>
 :video_game: I'm a Casual Gamer.</br>
 ☕ Everything in I.T. requires coffee.</br>
 :mailbox: How to reach me? : <a href="https://telegram.me/akhil838">Telegram</a>
@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 ## Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,opencv,py,pycharm,stackoverflow,vscode,tensorflow,pytorch,windows,anaconda,apple,c,java,debian,vim,discord,figma,github,kali,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=mysql,opencv,py,pycharm,stackoverflow,vscode,tensorflow,pytorch,windows,anaconda,apple,c,java,debian,vim,discord,figma,github,kali,docker,blender,unreal,flask,linkedin,git,arduino,linux&perline=14" />
   </a>
 </p>
