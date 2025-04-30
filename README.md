@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![CodeChef](https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&labelColor=black&link=https://www.leetcode.com/u/akhil838)](https://www.leetcode.com/u/akhil838)
 
 :school:👨‍🎓 Currently studying Computer Science (Artificial Intelligence and Machine Learning) at Sreyas Institute of Engineering and Technology, IN.</br>
-👨‍💻 I'm passionate about Cyber Security.</br>
+👨‍💻 I'm passionate about AI, ML, DL.</br>
 💻 Also intrested in Android Development📱, Web Development🌐.</br>
 :video_game: I'm a Casual Gamer.</br>
 ☕ Everything in I.T. requires coffee.</br>
