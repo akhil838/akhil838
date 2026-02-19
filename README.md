@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 :school:👨‍🎓 Currently studying Computer Science (Artificial Intelligence and Machine Learning) at Sreyas Institute of Engineering and Technology, IN.</br>
 👨‍💻 I'm passionate about Artificial Intelligence and Machine Learning .</br>
-💻 Also intrested in Robotics🤖, Android Development📱and Web Development🌐.</br>
+💻 Also intrested in Robotics🤖 .</br>
 :video_game: I'm a Casual Gamer.</br>
 ☕ Everything in I.T. requires coffee.</br>
 :mailbox: How to reach me? : <a href="https://telegram.me/akhil838">Telegram</a>
