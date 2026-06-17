@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 [![HackerRank](https://img.shields.io/badge/HackerRank-grey?style=for-the-badge&logo=hackerrank&labelColor=black&link=https://www.hackerrank.com/akhil838)](https://www.hackerrank.com/akhil838?hr_r=1)
 [![CodeChef](https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&labelColor=black&link=https://www.leetcode.com/u/akhil838)](https://www.leetcode.com/u/akhil838)
 
-:school:👨‍🎓 Currently studying Computer Science (Artificial Intelligence and Machine Learning) at Sreyas Institute of Engineering and Technology, IN.</br>
-👨‍💻 I'm passionate about Artificial Intelligence and Machine Learning .</br>
-💻 Also intrested in Robotics🤖 .</br>
+👾 Currently working as an AI Engineer at Atomicwork.</br>
+👨‍💻 I'm passionate about Artificial Intelligence and Machine Learning.</br>
+💻 Also intrested in Robotics🤖.</br>
 :video_game: I'm a Casual Gamer.</br>
 ☕ Everything in I.T. requires coffee.</br>
 :mailbox: How to reach me? : <a href="https://telegram.me/akhil838">Telegram</a>
